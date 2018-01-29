@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="M10_Ajax检测邮箱用户:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/M10_Ajax_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="M10_Ajax检测邮箱用户/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="M10_Ajax检测邮箱用户" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
