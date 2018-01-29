@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="M9_过滤器Filter:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/M9_Filter_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="M9_过滤器Filter/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="M9_过滤器Filter" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
