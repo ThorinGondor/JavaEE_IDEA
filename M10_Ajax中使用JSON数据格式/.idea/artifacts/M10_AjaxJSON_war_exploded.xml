@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="M10_Ajax中使用JSON数据格式:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/M10_AjaxJSON_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="M10_Ajax中使用JSON数据格式/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="M10_Ajax中使用JSON数据格式" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
