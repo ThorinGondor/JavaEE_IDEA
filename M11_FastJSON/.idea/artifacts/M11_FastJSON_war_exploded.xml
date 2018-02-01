@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="M11_FastJSON:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/M11_FastJSON_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="M11_FastJSON/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="M11_FastJSON" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
